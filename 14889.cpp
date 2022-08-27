@@ -5,6 +5,7 @@
 #include<cmath>
 using namespace std;
 #define MAX 21
+
 int n;
 int arr[MAX][MAX];
 int team[20];
